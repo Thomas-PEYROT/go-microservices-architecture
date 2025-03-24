@@ -10,4 +10,12 @@ This page is the home of the **Go microservices architecture**. It's a personal 
 
 ## Quick demo
 
+Here is a quick demo with two instances of `service-a` :
+
 ![Demo](images/demo.gif)
+
+## Microservice lifecycle
+
+This is how a microservice lives, from its startup to its shutdown :
+
+![lifecycle](images/lifecycle.png)
