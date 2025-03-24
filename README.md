@@ -8,7 +8,7 @@ This page is the home of the **Go microservices architecture**. It's a personal 
 
 ![architecture-microservices](images/microservices.png)
 
-This project remains very simple, thus a microservice can be launched multiple times at once.
+This project remains very simple, however a microservice can be launched multiple times at once.
 
 ## Quick demo
 
