@@ -1,0 +1,9 @@
+[submodule "discovery-server"]
+	path = discovery-server
+	url = https://github.com/Thomas-PEYROT/discovery-server.git
+[submodule "discovery-client"]
+	path = discovery-client
+	url = https://github.com/Thomas-PEYROT/discovery-client.git
+[submodule "microservice-a"]
+	path = microservice-a
+	url = https://github.com/Thomas-PEYROT/microservice-a.git
