@@ -8,6 +8,6 @@ This page is the home of the **Go microservices architecture**. It's a personal 
 
 ![architecture-microservices](images/microservices.png)
 
-## Quick demo 
+## Quick demo
 
-videos/demo.webm
+![Demo](images/demo.gif)
