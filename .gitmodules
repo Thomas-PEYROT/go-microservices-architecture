@@ -7,3 +7,6 @@
 [submodule "microservice-a"]
 	path = microservice-a
 	url = https://github.com/Thomas-PEYROT/microservice-a.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Thomas-PEYROT/gateway.git
