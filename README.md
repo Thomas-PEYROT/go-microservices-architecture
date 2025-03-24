@@ -8,6 +8,8 @@ This page is the home of the **Go microservices architecture**. It's a personal 
 
 ![architecture-microservices](images/microservices.png)
 
+This project remains very simple, thus a microservice can be launched multiple times at once.
+
 ## Quick demo
 
 Here is a quick demo with two instances of `service-a` :
@@ -19,3 +21,4 @@ Here is a quick demo with two instances of `service-a` :
 This is how a microservice lives, from its startup to its shutdown :
 
 ![lifecycle](images/lifecycle.png)
+
