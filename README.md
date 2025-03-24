@@ -10,4 +10,4 @@ This page is the home of the **Go microservices architecture**. It's a personal 
 
 ## Quick demo 
 
-![demo](videos/demo.webm)
+videos/demo.webm
