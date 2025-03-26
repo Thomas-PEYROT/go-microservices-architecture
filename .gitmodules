@@ -10,3 +10,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/Thomas-PEYROT/gateway.git
+[submodule "python-microservice"]
+	path = python-microservice
+	url = https://github.com/Thomas-PEYROT/python-microservice.git
