@@ -4,7 +4,7 @@ This page is the home of the **Go microservices architecture**. It's a personal 
 
 * a discovery server
 * an API gateway
-* a sample microservice
+* somme sample microservices (one with Go, and the other one with Python)
 
 ![architecture-microservices](images/microservices.png)
 
